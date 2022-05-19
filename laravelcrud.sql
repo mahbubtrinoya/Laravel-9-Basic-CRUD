@@ -42,9 +42,6 @@ CREATE TABLE `contact_list` (
 --
 
 INSERT INTO `contact_list` (`id`, `firstname`, `lastname`, `email`, `number`, `created_at`, `updated_at`) VALUES
-(2, 'Cintia', 'Horvath', 'cintiahorvath199918@gmail.com', '14164547214', '2022-05-18 02:37:27', '2022-05-18 02:37:27'),
-(4, 'Mahbub', 'Hossain', 'mh82179@gmail.com', '01921753983', '2022-05-18 04:28:02', '2022-05-18 04:28:02'),
-(6, 'Mahbub', 'Hossain', 'trinoyasolution@gmail.com', '+8801921753983', '2022-05-18 05:04:00', '2022-05-18 05:04:00'),
 (7, 'Rebeka', 'Jain', 'madalynthroop743qq@gmail.com', '01856879632', '2022-05-18 05:13:38', '2022-05-18 05:13:38'),
 (8, 'Shakil', 'Hossain', 'bbs@gmail.com', '0198754896', '2022-05-18 05:15:12', '2022-05-18 05:15:12'),
 (9, 'ROISIN', 'GANTLEY', 'tundefajko2015@yahoo.com', '41696255419', '2022-05-18 05:34:51', '2022-05-18 05:34:58');
